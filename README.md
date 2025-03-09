@@ -1,4 +1,4 @@
-# multiple-stack-login
+# Multiple Stack Login
 The purpose of this project is to create login system with multiple stacks data.
 
 ### Flowchart is on this link
